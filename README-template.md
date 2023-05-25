@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/gladstone28/rose-easy-landing)
+- Live Site URL: [Add live site URL here](https://gladstone28.github.io/rose-easy-landing/)
 
 ## My process
 
@@ -55,7 +55,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -96,9 +95,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://www.gladstonerose.tech)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gladstone28)
+- Twitter - [@yourusername](https://www.twitter.com/gladdyus)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
