@@ -1,21 +1,6 @@
 .has-fade {
   visibility: hidden;
 }
-
-@-webkit-keyframes fade-in {
-  from {
-    visibility: hidden;
-    opacity: 0;
-  }
-  1% {
-    visibility: visible;
-    opacity: 0;
-  }
-  to {
-    visibility: visible;
-    opacity: 1;
-  }
-}
 @keyframes fade-in {
   from {
     visibility: hidden;
@@ -31,23 +16,7 @@
   }
 }
 .fade-in {
-  -webkit-animation: fade-in 200ms ease-in-out forwards;
   animation: fade-in 200ms ease-in-out forwards;
-}
-
-@-webkit-keyframes fade-out {
-  from {
-    visibility: visible;
-    opacity: 1;
-  }
-  99% {
-    visibility: visible;
-    opacity: 0;
-  }
-  to {
-    visibility: hidden;
-    opacity: 0;
-  }
 }
 @keyframes fade-out {
   from {
@@ -64,7 +33,6 @@
   }
 }
 .fade-out {
-  -webkit-animation: fade-out 200ms ease-in-out forwards;
   animation: fade-out 200ms ease-in-out forwards;
 }
 
@@ -703,6 +671,4 @@ button:hover::before,
 .footer .attribution {
   margin-top: 4rem;
   font-size: 0.875rem;
-} 
-
-/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
